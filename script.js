@@ -70,7 +70,7 @@ function animations() {
   });
 
   tl3.from(".page-4 .mail", {
-    y: 400,
+    opacity: 0,
     duration: 5,
   });
 }
